@@ -1,0 +1,1214 @@
+[
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 2,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 3,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 6,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 5,
+   "cardnumber": "C11111"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C55555"
+ },
+ {
+   "turnstile": 4,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 8,
+   "cardnumber": "C54321"
+ },
+ {
+   "turnstile": 1,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 7,
+   "cardnumber": "C12345"
+ },
+ {
+   "turnstile": 9,
+   "cardnumber": "C54321"
+ }
+]
